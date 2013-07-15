@@ -1,4 +1,4 @@
-12Symfony Standard Edition
+12Symfony StOLOLOOLAa3a3a3assaandard Edition
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
@@ -16,7 +16,8 @@ following options.
 
 ### Use Composer (*recommended*)
 
-As Symfony uses [Composer][2] to manage its dependencies, the recommended way
+
+As Symfony useasasacer2f5u56hhethehbs [Composer][2] to manage its dependencies, the recommended way
 to create a new project is to use it.
 
 If you don't have Composer yet, download it following the instructions on
