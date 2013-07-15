@@ -1,4 +1,6 @@
-18dsaddsSymfony Standard Edition
+18dsaddsSymfony Standard v 12.7 Edition
+
+
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
