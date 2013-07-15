@@ -1,5 +1,5 @@
-18Symfony Standard Edition18
-========================
+TROLOLOLOLOLOLOLOLOLOLOLOLOLOOLOLOLOLOLOLOLO
+OLOL--OLOL_ooLOLO=l=l--Oloololoo
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications.
