@@ -1,5 +1,6 @@
-TROLOLOLOLOLOLOLOLOLOLOLOLOLOOLOLOLOLOLOLOLO
-OLOL--OLOL_ooLOLO=l=l--Oloololoo
+18dsaddsSymfony Standard v 12.7 Edition
+TROLOLOLOLOLOLOLOLOLOLOLOLOLOOLOLOLOLO
+========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications.
